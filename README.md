@@ -14,8 +14,8 @@ Clone this to the location of your choice and open in you're favourite editor.
 Just an editor and Git.
 
 ## Authors
-1. Liam Yancy - Developer
-2. Anson Lee - Developer
+1. Liam Yancy - Developer (Disagree)
+2. Anson Lee - Developer (Agree)
 
 ## Liscence
 
